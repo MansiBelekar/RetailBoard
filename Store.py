@@ -33,4 +33,4 @@ if st.button("Calculate Total"):
             st.write(f"{foods[i]}: ${prices[i]:.2f}")
         st.write(f"**Total:** ${total:.2f}")
     else:
-        st.warning("No items to calculate.")
+        st.warning("No items to calculate
